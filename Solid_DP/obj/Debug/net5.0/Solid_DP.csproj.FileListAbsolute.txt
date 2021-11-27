@@ -1,0 +1,16 @@
+E:\@udemy\Projects\Solid_DP\Solid_DP\bin\Debug\net5.0\Solid_DP.exe
+E:\@udemy\Projects\Solid_DP\Solid_DP\bin\Debug\net5.0\Solid_DP.deps.json
+E:\@udemy\Projects\Solid_DP\Solid_DP\bin\Debug\net5.0\Solid_DP.runtimeconfig.json
+E:\@udemy\Projects\Solid_DP\Solid_DP\bin\Debug\net5.0\Solid_DP.runtimeconfig.dev.json
+E:\@udemy\Projects\Solid_DP\Solid_DP\bin\Debug\net5.0\Solid_DP.dll
+E:\@udemy\Projects\Solid_DP\Solid_DP\bin\Debug\net5.0\ref\Solid_DP.dll
+E:\@udemy\Projects\Solid_DP\Solid_DP\bin\Debug\net5.0\Solid_DP.pdb
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\Solid_DP.csproj.AssemblyReference.cache
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\Solid_DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\Solid_DP.AssemblyInfoInputs.cache
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\Solid_DP.AssemblyInfo.cs
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\Solid_DP.csproj.CoreCompileInputs.cache
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\Solid_DP.dll
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\ref\Solid_DP.dll
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\Solid_DP.pdb
+E:\@udemy\Projects\Solid_DP\Solid_DP\obj\Debug\net5.0\Solid_DP.genruntimeconfig.cache
